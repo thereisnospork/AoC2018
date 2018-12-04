@@ -1,7 +1,7 @@
 # part 1 done in google sheets(sum of all inputs)
 import numpy as np
 
-file = open(r'C:\Users\georg\PycharmProjects\AoC2018\day1\input.txt')
+file = open(r'C:\Users\gleonard\PycharmProjects\AoC2018\data\day1.txt')
 a = []
 for line in file:
     # print(line)
